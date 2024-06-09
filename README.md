@@ -1,6 +1,6 @@
 # Vesktop-Legacy
 
-Vesktop is a custom Discord desktop app with Supports Windows 7 and 8.1
+Vesktop-Legacy is a custom Discord desktop app with Supports Windows 7 and 8.1 <br>
 Only 64bit supported. 32bit crashes.
 
 
