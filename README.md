@@ -17,4 +17,5 @@ Supports Windows 7 and 8/8.1 64bit
 Use extended kernel if you use Windows Vista.
 
 ### Known Issues
-Vesktop crashes when you start screen sharing on Windows 7.
+Vesktop crashes when you start screen sharing on Windows 7. <br>
+Exception Breakpoint error shows when you shutdown system on Windows 7.
