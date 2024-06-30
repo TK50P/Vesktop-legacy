@@ -17,9 +17,9 @@ Supports Windows 7 and 8/8.1 64bit
 Use extended kernel if you use Windows Vista.
 
 ### NOTE FOR WINDOWS 7 USERS
-To use screenshare on Windows 7 follow this step.
-Install Vesktop.Setup.1.5.2.1_amd64.exe FIRST.
-Complete login to discord.
+To use screenshare on Windows 7 follow this step. <br>
+Install Vesktop.Setup.1.5.2.1_amd64.exe FIRST. <br>
+Complete login to discord. <br>
 Uninstall and install Vesktop.Setup.1.5.2.1_amd64.FOR.WINDOWS.7.ONLY.exe
 
 ### Known Issues
