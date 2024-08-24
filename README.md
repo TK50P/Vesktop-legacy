@@ -20,6 +20,7 @@ Use extended kernel if you use Windows Vista.
 To use screenshare on Windows 7 follow this step. <br>
 Install Vesktop.Setup.1.5.2.1_amd64.exe FIRST. <br>
 Complete login to discord. <br>
+Exit Vesktop. <br>
 Uninstall and install Vesktop.Setup.1.5.2.1_amd64.FOR.WINDOWS.7.ONLY.exe
 
 ### Known Issues
